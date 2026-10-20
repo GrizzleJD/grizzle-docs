@@ -2,7 +2,7 @@
 
 ## What is an NFT?
 
-An NFT is a one-of-a-kind digital item that you own on the blockchain. Because it is recorded on-chain, no one can copy your ownership or take it away. You can keep it, use it, or sell it to someone else.
+An NFT is a one-of-a-kind digital item that you own on the blockchain. Because it is recorded on-chain, no one can copy your ownership or take it away. You can keep it, use it, or transfer ownership to someone else.
 
 ## The collection
 
@@ -20,9 +20,8 @@ Every Defender wears its own scrapyard gear. Traits include headgear such as spi
 
 ## How the NFTs will be used in the game
 
-{% hint style="info" %}
-The Defenders are meant to be used, not just collected. This is the plan we are building toward, and we will confirm the final details before and after mint.
-{% endhint %}
+The Defenders are meant to be used, not just collected. This is the plan we are building toward, and we will confirm the final details after mint.
+
 
 1. **Own:** you hold a Defender in your wallet
 2. **Play:** your Defender can be your character in Dumpster Defense, with its own look
@@ -39,10 +38,6 @@ Holders also become part of the core crew, with early access and community benef
 2. Connect your Supra wallet through StarKey and keep some SUPRA ready
 3. Go to the Grizzle Junkyard Defenders page on Crystara when minting opens
 4. Mint your Defender and see it in your wallet
-
-## Why only 222?
-
-A small supply makes each Defender rare. With only 222 pieces, every holder is part of a close crew, and every character counts.
 
 ## How the NFTs help Supra
 
