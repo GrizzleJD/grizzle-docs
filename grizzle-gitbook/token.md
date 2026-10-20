@@ -25,6 +25,6 @@ We are looking at the best launchpad options to open our token launch (TGE) thro
 
 Before launch, we will share the full details with the community first. That includes how many tokens there will be, who receives them, when they unlock, and what they are used for.
 
-{% hint style="warning" %}
+
 Until those details are published, nothing on this page is a final token plan.
-{% endhint %}
+
