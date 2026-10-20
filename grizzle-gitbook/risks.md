@@ -1,8 +1,8 @@
 # Risks and Disclaimer
 
-{% hint style="warning" %}
+
 Please read this page carefully.
-{% endhint %}
+
 
 * Grizzle is a memecoin and gaming project. Digital assets can go up and down in value, and you can lose money
 * Features, rewards, NFT uses, the token and the roadmap are plans. They may change
