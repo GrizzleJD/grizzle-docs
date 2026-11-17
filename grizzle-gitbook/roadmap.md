@@ -6,12 +6,13 @@ Our roadmap is a list of phases, not a list of dates. We would rather ship thing
 
 **What is happening**
 
-* Website and three games: Dumpster Defense, Trash Bash and Crew Match
+* Website and four games: Dumpster Defense,  Arena, Trash Bash and Crew Match
 * XP system with server checks and a daily cap
 * Guest mode and Supra wallet connect through StarKey
 * Daily tasks, Daily Challenge and leaderboard
 * Updates from community feedback: sound, disconnect and clearer fonts
-* Partnerships with fellow Supra projects, including SoupOnSupra, suprabag and Rez Dawgz
+
+
 
 **In simple words:** the game is built and open to play.
 

@@ -1,20 +1,22 @@
 # FAQ
 
+##
+
 ## Do I need a wallet to play?
 
 No. You can join as a guest with a nickname, or try practice runs with no account at all. Connect a Supra wallet before launch to keep and claim your XP.
 
 ## Which wallet do I use?
 
-Grizzle supports Supra wallet connection through StarKey.
+Grizzle supports Supra wallet connection through StarKey app.
 
 ## How do I earn the most XP?
 
-Play all three games, finish the daily tasks, complete the Daily Challenge and invite friends.
+Play all three games, finish the daily tasks, and partner quests,  complete the Daily Challenge, win Arena battles and invite friends.
 
 ## What is the Daily Challenge?
 
-Play 3 of the 3 games in one day to earn +5,000 XP. It resets every day at 8:00 AM Philippine time.
+Finish at least 3 games in one day to earn +5,000 XP. It resets every day at 00:00 UTC.
 
 ## When can I claim SUPRA?
 
@@ -30,7 +32,7 @@ Not yet. We are focusing on the product first and looking at launchpad options f
 
 ## How many Defender NFTs are there?
 
-222. Each one is a 1-of-1 with its own traits, launching on Crystara.
+222 each one is a 1-of-1 with its own traits, 1st phase minted out on Crystara. Second phase coming up soon with 2850 NFTs
 
 ## How will the NFTs be used?
 

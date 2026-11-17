@@ -5,6 +5,7 @@
 * [What Is Grizzle](what-is-grizzle.md)
 * [The Games](games/README.md)
   * [Dumpster Defense](games/dumpster-defense.md)
+  * [Grizzle Arena](games/grizzle-arena.md)
   * [Trash Bash](games/trash-bash.md)
   * [Crew Match](games/crew-match.md)
 * [The Reward System](rewards.md)
