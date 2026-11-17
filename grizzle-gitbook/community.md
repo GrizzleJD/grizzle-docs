@@ -5,8 +5,17 @@ The community is the heart of Grizzle. Here is how you can take part:
 * Play the games and climb the leaderboard
 * Finish daily tasks and invite your friends
 * Join the Telegram community and follow Grizzle on X
+* Do the partner quests to earn bonus XP
 * Share feedback that shapes the next update
-* Join partner campaigns and quests with other Supra projects
+
+### Our Partners
+
+* SoupOnSupra
+* SUPRABAG
+* RezDawgz
+* SupraBird
+* CHillbara
+* Toonswap
 
 ## Working with other Supra projects
 
