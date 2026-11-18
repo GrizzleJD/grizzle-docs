@@ -4,6 +4,7 @@
 * [Introduction](introduction.md)
 * [What Is Grizzle](what-is-grizzle.md)
 * [The Games](games/README.md)
+  * [Weapons and Combat Equipment](games/weapons-and-combat-equipment.md)
   * [Dumpster Defense](games/dumpster-defense.md)
   * [Grizzle Arena](games/grizzle-arena.md)
   * [Trash Bash](games/trash-bash.md)

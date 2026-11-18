@@ -10,7 +10,7 @@ Dumpster Defense is the flagship game. It is a 3D defense game where you protect
 * Each round the waves get faster, so the game gets harder the longer you last
 * Every point you score becomes 1 XP, with a maximum of 4,000 XP per game
 
-## Your defenders
+## Your default defenders
 
 * 🥊 **Brawlers:** close-range fighters who stand at the front and take on enemies head-on
 * 🥫 **Can Tossers:** raccoons who throw cans at enemies from a distance
