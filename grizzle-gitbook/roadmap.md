@@ -22,9 +22,8 @@ Our roadmap is a list of phases, not a list of dates. We would rather ship thing
 
 **What is happening**
 
-* Whitelist phase for the early community
-* Public mint of Grizzle Junkyard Defenders (222 pieces) on Crystara
-* Community campaigns and partner collaborations around the launch
+* All first phase of Grizzle NFTs minted out
+* Next is the launch of 2850 second phase collection
 
 **In simple words:** the community gets its characters.
 
