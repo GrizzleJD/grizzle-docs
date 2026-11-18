@@ -2,7 +2,7 @@
 
 ## Where things stand
 
-The Grizzle token is **not live yet**. We are not in a rush. Our first priority is to make the product the best it can be. Today, rewards and NFT purchases use SUPRA.
+The Grizzle token is **not live yet**.&#x20;
 
 ## What the token is planned to do
 

@@ -17,6 +17,12 @@ Dumpster Defense is the flagship game. It is a 3D defense game where you protect
 * 💨 **Stink Bombs:** smelly gas attacks that hit groups of enemies
 * 🍌 **Peel Traps:** banana peels placed on the ground to trip up enemies and slow them down.
 
+Grizzle Junkyard Defender NFTs are used in-game, each with its own unique weapon.
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 {% hint style="success" %}
 **A simple tip:** mix different defender types. A squad with a bit of everything is stronger than a squad with only one kind.
 {% endhint %}

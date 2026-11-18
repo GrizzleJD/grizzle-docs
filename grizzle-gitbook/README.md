@@ -91,20 +91,26 @@
 '89': a
 '90': m
 '91': _
+description: >-
+  Grizzle is a gaming ecosystem built on Supra, combining interactive blockchain
+  games, NFT utility and community-driven experiences.
 cover: .gitbook/assets/banner.jpg
 coverY: 0
 ---
 
 # 🦝 Welcome to Grizzle
 
-Grizzle is a fun game project built on Supra. You play games, earn points called XP, and your XP converts into SUPRA rewards. Grizzle is also a meme: an angry raccoon who guards a dumpster and never backs down.
+Players can explore different game modes, complete daily tasks, earn XP and participate in a growing ecosystem where gameplay contributes to SUPRA rewards.
+
+At its core, Grizzle is represented by an angry raccoon protecting its territory — a symbol of the project's competitive spirit, creativity and community.
 
 ## Where we are today
 
-* Three games are live and playable: Dumpster Defense, Trash Bash and Crew Match
-* Players earn XP from games and daily tasks, and can see their rewards in real time
-* A 222-piece first NFT collection, Grizzle Junkyard Defenders, is on the way
-* A Grizzle token is planned for later, after the product is strong
+* Four live games: Dumpster Defense, Grizzle Arena, Trash Bash and Crew Match are live and playable.
+* XP and Rewards: Players earn XP through gameplay and daily activities, with accumulated XP determining their SUPRA rewards.
+* NFT Collection: The first collection, comprising 222 Grizzle Junkyard Defenders, is completely minted out.
+* Next NFT Phase: The next phase, featuring 2,850 additional NFTs, is coming soon.
+* $GRIZZLE Token: The project is approaching its Token Generation Event (TGE), targeted for November/December 2026.
 
 ## Our idea
 
