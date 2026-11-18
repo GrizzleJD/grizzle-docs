@@ -1,16 +1,10 @@
 # Junkyard Defenders (NFTs)
 
-## What is an NFT?
-
-An NFT is a one-of-a-kind digital item that you own on the blockchain. Because it is recorded on-chain, no one can copy your ownership or take it away. You can keep it, use it, or transfer ownership to someone else.
-
-## The collection
-
-**Grizzle Junkyard Defenders** is the first NFT collection from Grizzle. It has 222 angry raccoons from the junkyard, built for Supra.
+**Grizzle Junkyard Defenders** is the first NFT collection from Grizzle. It has 222 (3072 in total) angry raccoons from the junkyard, built for Supra.
 
 * Every Defender is a 1-of-1, so no two are the same
 * Each one has its own mix of traits
-* The first phase minted out on Crystara, a Supra NFT marketplace
+* The first phase (222) minted out on Crystara NFT marketplace
 * Next phase will be a 2850 collections.
 
 ## What makes each Defender different
